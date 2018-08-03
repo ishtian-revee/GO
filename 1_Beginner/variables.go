@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 // package scope/global variables
 var outside = "This is outside of the functions scope"

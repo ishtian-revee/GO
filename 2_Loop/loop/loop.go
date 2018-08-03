@@ -3,7 +3,7 @@ package loop
 // basic loop
 func Basic(sum int) int{
 	for i:=0; i<10; i++{
-		sum += sum;
+		sum += sum
 	}
 
 	return sum
@@ -12,7 +12,7 @@ func Basic(sum int) int{
 // loop without initialization and post increments
 func Optional(sum int) int{
 	for ; sum<100; {
-		sum += sum;
+		sum += sum
 	}
 
 	return sum
