@@ -36,6 +36,10 @@ func main(){
 	fmt.Println("First Slice:", slc)
 	fmt.Println("Copy Slice:", slc2)
 
+	// declare and initialize in one line
+	slc3 := []string{"legen", "darry"}
+	fmt.Println("slice 3:", slc3)
+
 	// multi dimensional slice
 	mulSlc := make([][]int, 3)
 	for i:=0; i<len(mulSlc); i++ {
