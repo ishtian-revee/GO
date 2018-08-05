@@ -25,6 +25,14 @@ func main(){
 	// slice can be pass as argument of a variadic function
 	slc := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
 	sum(slc...)
+
+	// closures call
+	nextInt := intSec()
+	fmt.Println(nextInt())
+	fmt.Println(nextInt())
+	fmt.Println(nextInt())
+	fmt.Println(nextInt())
+	fmt.Println(nextInt())
 }
 
 // basic function in go
@@ -50,4 +58,13 @@ func sum(nums ...int){
 		total += num
 	}
 	fmt.Println("total:", total)
+}
+
+// closures (anonymous functions)
+func intSec() func() int{
+	i := 0
+	return func() int {
+		i++
+		return i
+	}
 }
