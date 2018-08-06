@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e35f0d9b-cf75-4d3d-88c9-9d45736acfc5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/12_struct/main.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/13_methods/main.go" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11_pointer/main.go">
+        <entry file="file://$PROJECT_DIR$/12_struct/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -26,10 +27,10 @@
         </entry>
       </file>
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12_struct/main.go">
+        <entry file="file://$PROJECT_DIR$/13_methods/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -87,6 +88,7 @@
         <option value="$PROJECT_DIR$/02_loop/main.go" />
         <option value="$PROJECT_DIR$/11_pointer/main.go" />
         <option value="$PROJECT_DIR$/12_struct/main.go" />
+        <option value="$PROJECT_DIR$/13_methods/main.go" />
       </list>
     </option>
   </component>
@@ -128,7 +130,7 @@
             <path>
               <item name="ishtian-revee" type="b2602c69:ProjectViewProjectNode" />
               <item name="ishtian-revee" type="462c0819:PsiDirectoryNode" />
-              <item name="11_pointer" type="462c0819:PsiDirectoryNode" />
+              <item name="12_struct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (2)">
+  <component name="RunManager" selected="Go Build.go build main.go (4)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="ishtian-revee" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -177,12 +179,12 @@
       <filePath value="$PROJECT_DIR$/12_struct/main.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="ishtian-revee" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/9_functions/main.go" />
+      <filePath value="$PROJECT_DIR$/13_methods/main.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -202,19 +204,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build main.go (3)" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build main.go (5)" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build main.go (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build main.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build main.go (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build main.go (5)" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build main.go (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build main.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build main.go (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build main.go (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build main.go (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build main.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build main.go (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build main.go (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build main.go (3)" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build main.go (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build main.go (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build main.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build main.go (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build main.go (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +225,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="92" width="1802" height="966" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22974537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -257,13 +258,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05_arrays/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06_slice/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -606,15 +600,25 @@
         <state relative-caret-position="381">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="e#14#26#0" expanded="true" />
+            <element signature="e#14#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12_struct/main.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_methods/main.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
