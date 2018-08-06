@@ -2,7 +2,7 @@ package main
 
 import(
 	"fmt"
-	"github.com/ishtian-revee/2_loop/loop"
+	"github.com/ishtian-revee/02_loop/loop"
 )
 
 func main(){

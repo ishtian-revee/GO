@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ishtian-revee/4_switch/switch"
+import "github.com/ishtian-revee/04_switch/switch"
 
 func main(){
 	num := 10
